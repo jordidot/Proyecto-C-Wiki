@@ -45,10 +45,10 @@ Go to https://localhost/wiki/index.php or https://localhost/wiki/
 
 # IMAGES
 
-[url=https://postimg.cc/18j52mzV][img]https://i.postimg.cc/18j52mzV/Captura-de-pantalla-2023-01-24-210639.jpg[/img][/url]
+![Image 1](https://i.postimg.cc/18j52mzV/Captura-de-pantalla-2023-01-24-210639.jpg)
 
-[url=https://postimg.cc/tsT4BZ9H][img]https://i.postimg.cc/tsT4BZ9H/Captura-de-pantalla-2023-01-24-210657.jpg[/img][/url]
+![Image 2](https://i.postimg.cc/tsT4BZ9H/Captura-de-pantalla-2023-01-24-210657.jpg)
 
-[url=https://postimg.cc/0bZNGdRf][img]https://i.postimg.cc/0bZNGdRf/Captura-de-pantalla-2023-01-24-210719.jpg[/img][/url]
+![Image 3](https://i.postimg.cc/0bZNGdRf/Captura-de-pantalla-2023-01-24-210719.jpg)
 
 

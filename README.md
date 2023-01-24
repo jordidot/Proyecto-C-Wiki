@@ -5,6 +5,8 @@ Wiki of the summary.xml that Visual Studio generates for you, from the documenta
 # LOCATION OF FILE .XML
 
 Add your XML generated with Visual Studio into the folder and change name for "summary.xml".
+How to activate auto generate xml file here
+https://learn.microsoft.com/en-us/visualstudio/ide/reference/generate-xml-documentation-comments?view=vs-2022
 
 # CONFIGURATION WIKI
 Configure file config.json
@@ -34,3 +36,7 @@ Configure file config.json
 -sections = Names of the sections, of the XMl file.
 
 -xmlpath = Path of the XML file.
+
+# VIEW WIKI ON LOCAL HOST
+
+Go to https://localhost/wiki/index.php or https://localhost/wiki/

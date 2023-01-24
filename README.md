@@ -42,3 +42,9 @@ Configure file config.json
 # VIEW WIKI ON LOCAL HOST
 
 Go to https://localhost/wiki/index.php or https://localhost/wiki/
+
+# IMAGES
+
+![alt text](https://ibb.co/pbKq3Lr)
+![alt text](https://ibb.co/0D95Hgr)
+![alt text](https://ibb.co/Wz1sZ0x)

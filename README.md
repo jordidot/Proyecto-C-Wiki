@@ -2,10 +2,11 @@
 
 Wiki of the summary.xml that Visual Studio generates for you, from the documentation of your application. 
 
-//LOCATION OF FILE .XML
+#LOCATION OF FILE .XML
+
 Add your XML generated with Visual Studio into the folder and change name for "summary.xml".
 
-//CONFIGURATION WIKI
+#CONFIGURATION WIKI
 Configure file config.json
 
 -title = Title of the web page (header).

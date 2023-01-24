@@ -5,7 +5,9 @@ Wiki of the summary.xml that Visual Studio generates for you, from the documenta
 # LOCATION OF FILE .XML
 
 Add your XML generated with Visual Studio into the folder and change name for "summary.xml".
-How to activate auto generate xml file here
+
+How to activate auto generate xml file here:
+
 https://learn.microsoft.com/en-us/visualstudio/ide/reference/generate-xml-documentation-comments?view=vs-2022
 
 # CONFIGURATION WIKI

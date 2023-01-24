@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Exercici01</name>
+    </assembly>
+    <members>
+        <member name="M:MenuMatematic.Programa.Main">
+            <summary>
+            Métode principal, on escollim la mida de la Consola i cridem a totes les funcions.
+            </summary>
+            <returns>Un conjunt de resultats de mètodes.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.DemanarNumeros">
+            <summary>
+            Aquest mètode et demana els dos primers números necessaris per duur a terme el menú matemàtic.No fa falta passar cap paràmetre.
+            </summary>
+            <returns>Et retorna uns string demanant els números per els càlculs.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.Menu(System.Char,System.Int32,System.Int32)">
+            <summary>
+            Aquest és el switch que crida totes les funcions, se l'hi passa com a paràmetres la tecla del teclat i els valors del numeros donats al principi.
+            </summary>
+            <param name="caracter">Paràmetre de tipus char, primer paràmetre.</param>
+            <param name="n1">Paràmetre de tipus int, segon paràmetre.</param>
+            <param name="n2">Paràmetre de tipus int, tercer paràmetre.</param>
+            <returns>Retorna el menú del programa</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.Contador">
+            <summary>
+            Funció que fa un  contador d'espera mentres es fan els càlculs.
+            </summary>
+            <returns>Retorna la barra d'espera dels càlculs</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.Maxim(System.Int32,System.Int32)">
+            <summary>
+            Funció que et dona un int del máxim dels dos numeros passats per el paràmetre.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.Mcd(System.Int32,System.Int32)">
+            <summary>
+            Funció que et dona un string del màxim comú divisor dels dos numeros passats per el paràmetre.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.Mcm(System.Int32,System.Int32)">
+            <summary>
+            Funció que et dona un string del mínim comú multiple dels dos numeros passats per el paràmetre.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.Factorial(System.Int32,System.Int32)">
+            <summary>
+            Funció que et dona un string del factorial dels dos numeros passats per el paràmetre.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.Combinatori(System.Double,System.Double)">
+            <summary>
+            Funció que et dona un string del combinatori dels dos numeros passats per el paràmetre.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.MostrarDivisorMajor(System.Int32,System.Int32)">
+            <summary>
+            Funció que et dona un string del major divisor dels dos numeros passats per el paràmetre.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.EsPrimer(System.Int32,System.Int32)">
+            <summary>
+            Funció que et dona un string que et diu si els numeros són primers.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.NPrimersPrimers(System.Int32,System.Int32)">
+            <summary>
+            Funció que et dona un string que et diu els numeros primers que hi han fins els números indicats.
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna un string amb els resultats.</returns>
+        </member>
+        <member name="M:MenuMatematic.Programa.CridarMenu(System.Int32,System.Int32)">
+            <summary>
+            Funció que imprimeix el menú principal de les accions que pot fer l'usuari, agafa com a paràmetre els dos números recollits a la funció DemanarNumeros().
+            </summary>
+            <param name="num1">Paràmetres de tipus int, primer paràmetre.</param>
+            <param name="num2">Paràmetres de tipus int, segon paràmetre.</param>
+            <returns>Retorna el menú del programa.</returns>
+        </member>
+    </members>
+</doc>

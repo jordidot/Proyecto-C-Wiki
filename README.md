@@ -45,6 +45,6 @@ Go to https://localhost/wiki/index.php or https://localhost/wiki/
 
 # IMAGES
 
-![alt text](https://ibb.co/pbKq3Lr)
-![alt text](https://ibb.co/0D95Hgr)
-![alt text](https://ibb.co/Wz1sZ0x)
+![My Remote Image](https://ibb.co/pbKq3Lr)
+![My Remote Image](https://ibb.co/0D95Hgr)
+![My Remote Image](https://ibb.co/Wz1sZ0x)

@@ -45,6 +45,10 @@ Go to https://localhost/wiki/index.php or https://localhost/wiki/
 
 # IMAGES
 
-![My Remote Image](https://ibb.co/pbKq3Lr)
-![My Remote Image](https://ibb.co/0D95Hgr)
-![My Remote Image](https://ibb.co/Wz1sZ0x)
+[url=https://postimg.cc/18j52mzV][img]https://i.postimg.cc/18j52mzV/Captura-de-pantalla-2023-01-24-210639.jpg[/img][/url]
+
+[url=https://postimg.cc/tsT4BZ9H][img]https://i.postimg.cc/tsT4BZ9H/Captura-de-pantalla-2023-01-24-210657.jpg[/img][/url]
+
+[url=https://postimg.cc/0bZNGdRf][img]https://i.postimg.cc/0bZNGdRf/Captura-de-pantalla-2023-01-24-210719.jpg[/img][/url]
+
+

@@ -47,8 +47,8 @@ Go to https://localhost/wiki/index.php or https://localhost/wiki/
 
 ![Image 1](https://i.postimg.cc/k5n6VD3s/Captura-de-pantalla-2023-01-24-210639.jpg)
 
-![Image 2](https://i.postimg.cc/tsT4BZ9H/Captura-de-pantalla-2023-01-24-210657.jpg)
+![Image 2](https://i.postimg.cc/9QPwFZSz/Captura-de-pantalla-2023-01-24-210657.jpg)
 
-![Image 3](https://i.postimg.cc/0bZNGdRf/Captura-de-pantalla-2023-01-24-210719.jpg)
+![Image 3](https://i.postimg.cc/T3vW6CtZ/Captura-de-pantalla-2023-01-24-210719.jpg)
 
 
